@@ -44,7 +44,7 @@ Create a New File:
 
 Copy and Paste the Solidity Code:
 
-=>Copy the Solidity code provided link : https://github.com/Sourov2002t/ETH_Project/blob/main/Token.sol which is visible on github page.
+=>Copy the Solidity code provided link :https://github.com/Akshvas/Module2/blob/main/Eth.sol which is visible on github page.
 
 =>Paste it into the newly created BifrostToken.sol file in Remix.
 
@@ -100,4 +100,4 @@ Github : https://github.com/Akshvas/Module2/edit/main/Readme.md
 LinkeIn : https://www.linkedin.com/in/sourov-kumar-nandi-77292924b
 
 License
-This project is licensed under the MIT License - see the link ( https://github.com/Sourov2002t/ETH_Project/blob/main/LICENSE ) for details.
+This project is licensed under the MIT License - see the link ( https://github.com/Akshvas/Module2/blob/main/LICENSE ) for details.
