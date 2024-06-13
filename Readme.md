@@ -97,7 +97,7 @@ Authors
 
 Github : https://github.com/Akshvas/Module2/edit/main/Readme.md
 
-LinkeIn : https://www.linkedin.com/in/sourov-kumar-nandi-77292924b
+LinkeIn : https://www.linkedin.com/in/akshit-vashisht-6a0805256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 License
 This project is licensed under the MIT License - see the link ( https://github.com/Akshvas/Module2/blob/main/LICENSE ) for details.
