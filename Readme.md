@@ -93,9 +93,9 @@ View Token Details:
 By following these instructions, you can successfully deploy and interact with the "Bitcoin Cash" contract on the Ethereum blockchain using Remix.
 
 Authors
-=> Sourov Kumar Nandi
+=> Akshit vashisht
 
-Github : https://github.com/Sourov2002t
+Github : https://github.com/Akshvas/Module2/edit/main/Readme.md
 
 LinkeIn : https://www.linkedin.com/in/sourov-kumar-nandi-77292924b
 
